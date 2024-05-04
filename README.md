@@ -9,6 +9,7 @@ Moreover, PyMC3 allows to use of a simple syntax for expressing complex models. 
 
 Additionally, PyMC3 provides tools for model comparison and selection which enables to compare various models and choose the one that most closely matches the data. It supports evaluating the model's fit and complexity with methods such as the Deviance Information Criterion (DIC) and the Widely Applicable Information Criterion (WAIC). Furthermore, through the model comparison and selection features of PyMC3 help to evaluate the suitability of several models and determine the best fit for the data.
 
+
 *Note: Unable to import PyMC3. Thus, these are the provided samples.*
 
 ## Sample Script/Code
