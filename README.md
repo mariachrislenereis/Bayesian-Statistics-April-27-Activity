@@ -98,5 +98,7 @@ plt.ylabel("y")
 ## References
 
 Aswani, H. (2023, October 31). Practical Applications of PyMC3 in Data Science. Medium. https://medium.com/@harshitaaswani2002/practical-applications-of-pymc3-in-data-science-85c967da79ad
+
 Copley, C. (2023, June 16). Understanding the Monte Carlo Markov Chain: A Key to Bayesian Inference. Medium. https://charlescopley.medium.com/understanding-the-monte-carlo-markov-chain-a-key-to-bayesian-inference-163b03f9fd2d
+
 Nucera, F. (2023, July 4). Mastering Bayesian Linear Regression from Scratch: A Metropolis-Hastings Implementation in Python. Medium. https://medium.com/@tinonucera/bayesian-linear-regression-from-scratch-a-metropolis-hastings-implementation-63526857f191
